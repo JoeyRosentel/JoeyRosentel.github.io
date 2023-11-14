@@ -10,7 +10,7 @@ sections:
     content:
       title: Hugo Academic Theme
       image:
-        filename: hero-academic.png
+        filename: UIUCwinter.jpeg
       cta:
         label: '**Get Started**'
         url: https://hugoblox.com/templates/
@@ -71,8 +71,8 @@ sections:
           date_end: ''
           description: |2-
               Research for Chen-Yu Liu group worked/working on:
-              -Project to measure mass spectra of Neutrino
-              -UCNTau project machine learning
+                -Project to measure mass spectra of Neutrino
+                -UCNTau project machine learning
         - title: Researcher for Professor Karin Dahmen
           company: University of Illinois at Urbana-Champaign
           company_url: ''

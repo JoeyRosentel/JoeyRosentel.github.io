@@ -24,8 +24,7 @@ organizations:
     url: https://illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Undergraduate Physics at the University of Illinois at Urbana-Champaign. My interests lie in the intersection between abstract math and physics. 
-
+bio: Undergraduate Physics at the University of Illinois at Urbana-Champaign.
 # Interests to show in About widget
 interests:
   - Topology
@@ -35,7 +34,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.S. Physics major, Mathematics Minor
+    - course: B.S. Physics Major, Mathematics Minor
       institution: University of Illinois at Urbana-Champaign
       year: 2025
 
@@ -74,7 +73,7 @@ social:
     link: https://github.com/JoeyRosentel
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/joey-rosentel-72191a29b
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -85,5 +84,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-'Hello! I am Joey Rosentel. I am a student at the University of Illinois studying physics and mathematics.'
+Hello! My name is Joey Rosentel, and I am a student at the University of Illinois studying physics and mathematics. I am interested in connections in abstract mathematics such as topology and physics. 
 {style="text-align: justify;"}
